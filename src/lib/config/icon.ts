@@ -3,7 +3,7 @@ import { site } from '$lib/config/site'
 
 export const favicon: Icon = {
   src: site.protocol + site.domain + '/favicon.png',
-  sizes: '16x16',
+  sizes: '48x48',
   type: 'image/png'
 }
 
