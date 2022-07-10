@@ -3,7 +3,7 @@ import { site } from '$lib/config/site'
 
 export const favicon: Icon = {
   src: 'shau.ml/favicon.png',
-  sizes: '48x48',
+  sizes: '48x42',
   type: 'image/png'
 }
 
