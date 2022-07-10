@@ -2,8 +2,8 @@ import type { Icon } from '$lib/types/icon'
 import { site } from '$lib/config/site'
 
 export const favicon: Icon = {
-  src: site.protocol + site.domain + '/favicon.png',
-  sizes: '48x48',
+  src: site.protocol + site.domain + '/favicon_48x42.png',
+  sizes: '48x42',
   type: 'image/png'
 }
 
