@@ -48,7 +48,7 @@ while True:
 
 ## Record Code
 
-This is the code for record.py which I got from [here](https://towardsdatascience.com/merging-with-ai-how-to-make-a-brain-computer-interface-to-communicate-with-google-using-keras-and-f9414c540a92) and was apparently first from [Neurotech@Berkley(https://github.com/neurotech-berkeley). Change your word bank in line 65. The word bank is used as a stimulus or prompt. For a visual stimulus, you can alter code for the n170 experiment in eeg-notebooks (however the markers column was not working for me). 
+This is the code for record.py which I got from [here](https://towardsdatascience.com/merging-with-ai-how-to-make-a-brain-computer-interface-to-communicate-with-google-using-keras-and-f9414c540a92) and was apparently first from [Neurotech@Berkley](https://github.com/neurotech-berkeley). Change your word bank in line 65. The word bank is used as a stimulus or prompt. For a visual stimulus, you can alter code for the n170 experiment in eeg-notebooks (however the markers column was not working for me). 
 
 ```bash
 import numpy as np
