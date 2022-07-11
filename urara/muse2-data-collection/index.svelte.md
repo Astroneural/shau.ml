@@ -4,7 +4,6 @@ date: 2022-07-11
 lastmod: 2022-07-11
 tags:
   - 'Muse 2'
-cover: '/hello-world/cover.webp'
 ---
 
 So you got yourself a Muse 2 EEG Headset, only to your great dismay Interaxon (it's maker) doesn't provide software to get raw data from it for research. Then you realise you can get data over Bluetooth, so you try connecting to your computer. . . it doesn't work! So then you try connecting to your phone. It works! Huzzah! But wait. . . to access the data I need a paid app!? (Mind Monitor is great, I hear, don't get me wrong, it's just I think it's better to try the free stuff first). Or maybe that's just me and you knew what to do from the start. Anyway, here's how to collect raw EEG data from Muse 2 with markers for stimuli.
