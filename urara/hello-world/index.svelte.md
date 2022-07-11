@@ -1,7 +1,7 @@
 ---
 title: 'Hello World'
-date: 1971-01-2
-lastmod: 1971-01-2
+date: 2022-07-12
+lastmod: 2022-07-12
 ---
 
 # So this is mine now
