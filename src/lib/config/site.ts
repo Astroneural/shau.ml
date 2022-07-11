@@ -10,7 +10,7 @@ export const site: SiteConfig = {
   author: {
     name: 'Shaum',
     photo: '/assets/maskable@192.png',
-    status: '🍁',
+    status: 'ᓚᘏᗢ', // other options include: 🍁🎱🔮🎶📖🖊☂❄
     bio: 'Hello world!'
   },
   themeColor: '#3D4451'
