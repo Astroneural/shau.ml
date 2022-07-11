@@ -1,7 +1,7 @@
 ---
 title: 'Collect Real-Time Data from Muse 2 EEG With Markers (Windows)'
-date: 2022-07-11
-lastmod: 2022-07-11
+date: 2022-07-12
+lastmod: 2022-07-12
 tags:
   - 'Muse 2'
 ---
