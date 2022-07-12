@@ -146,7 +146,7 @@ export const footer: FooterConfig = {
 export const date: DateConfig = {
   locales: 'en-US',
   options: {
-    year: '4-digit',
+    year: '2-digit',
     weekday: 'long',
     month: 'short',
     day: 'numeric'
