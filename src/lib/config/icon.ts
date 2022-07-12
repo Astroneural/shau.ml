@@ -4,7 +4,7 @@ import { site } from '$lib/config/site'
 export const favicon: Icon = {
   src: site.protocol + site.domain + '/favicon_small.ico',
   sizes: '24x24',
-  type: 'image/icon'
+  type: 'image/x-icon'
 }
 
 export const any: { [key: number]: Icon } = {
