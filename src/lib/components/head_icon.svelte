@@ -4,7 +4,7 @@
 
 <svelte:head>
   {#if favicon}
-    <link rel="shortcut icon" href={favicon.src} sizes={favicon.sizes} type={favicon.type} />
+    <link rel="shortcut icon" href={'urara/favicon.png'} sizes={favicon.sizes} type={favicon.type} />
   {/if}
   {#if any['180']}
     <link rel="apple-touch-icon" href={any['180'].src} sizes={any['180'].sizes} type={any['180'].type} />
