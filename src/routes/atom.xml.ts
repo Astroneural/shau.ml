@@ -10,7 +10,7 @@ const render = async (
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>${site.protocol + site.domain}/</id>
   <title><![CDATA[${site.title}]]></title>${site.subtitle ? `\n  <subtitle><![CDATA[${site.subtitle}]]></subtitle>` : ''}${
-  favicon ? `\n  <icon>${'urara/favicon.png'}</icon>` : ''
+  favicon ? `\n  <icon>${'urara/favicon_48x42.png'}</icon>` : ''
 }
   <link href="${site.protocol + site.domain}" />
   <link href="${site.protocol + site.domain}/atom.xml" rel="self" type="application/atom+xml" />${
