@@ -9,6 +9,30 @@
     <link rel="alternate" type="application/atom+xml" href="/atom.xml" />
     <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
     %sveltekit.head%
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+    /* width */
+    ::-webkit-scrollbar {
+      width: 10px;
+    }
+
+    /* Track */
+    ::-webkit-scrollbar-track {
+      box-shadow: inset 0 0 5px grey; 
+      border-radius: 5px;
+    }
+ 
+    /* Handle */
+    ::-webkit-scrollbar-thumb {
+      background: purple; 
+      border-radius: 5px;
+    }
+
+    /* Handle on hover */
+    ::-webkit-scrollbar-thumb:hover {
+      background: #561d5e; 
+    }
+  </style>
   </head>
   <body itemscope itemtype="https://schema.org/WebPage">
     %sveltekit.body%
