@@ -1,11 +1,11 @@
 import type { Icon } from '$lib/types/icon'
 import { site } from '$lib/config/site'
 
-// export const favicon: Icon = {
-//   src: site.protocol + site.domain + '/favicon_48x42.png',
-//   sizes: '48x42',
-//   type: 'image/png'
-// } 
+export const favicon: Icon = {
+  src: site.protocol + site.domain + '/favicon_48x42.png',
+  sizes: '48x42',
+  type: 'image/png'
+} 
 
 export const any: { [key: number]: Icon } = {
   180: {
