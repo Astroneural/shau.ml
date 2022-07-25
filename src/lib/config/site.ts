@@ -6,7 +6,7 @@ export const site: SiteConfig = {
   title: 'Shaum',
   subtitle: '',
   lang: 'en-US',
-  description: 'Powered by SvelteKit/Urara',
+  description: 'My personal website',
   author: {
     name: 'Shaum',
     photo: 'https://lh3.googleusercontent.com/a-/AFdZuco1-otaW8cEIh0nG-ZW8QS5pJkfIBapVlI-nzz6WQ=s432-p-rw-no',
