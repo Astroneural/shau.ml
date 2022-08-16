@@ -1,6 +1,6 @@
 ---
 title: 'About Me'
-date: 1999-07-13
+date: 2022-07-11
 lastmod: 2022-07-11
 ---
 Hey! I'm a lonely child, an only child without pets, so I get bored a lot. A lot a lot. So I decided to make this. 
