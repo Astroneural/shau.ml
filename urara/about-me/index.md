@@ -3,7 +3,7 @@ title: 'About Me'
 date: 2022-07-11
 lastmod: 2022-07-11
 ---
-Hey! I'm a lonely child, an only child without pets, so I get bored a lot. A lot a lot. So I decided to make this. 
+Hey! My name is Shaumprovo Debnath and I'm a lonely child, an only child without pets, so I get bored a lot. A lot a lot. So I decided to make this. 
 
 Discord: Astroneural#1261
 Medium: [Shaumprovo Debnath](https://medium.com/@Shaum)
