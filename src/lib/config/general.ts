@@ -125,7 +125,7 @@ export const header: HeaderConfig = {
   nav: [
     {
       text: 'About Me',
-      link: '/about-me'
+      link: '/shaum'
     },
   ]
 }
