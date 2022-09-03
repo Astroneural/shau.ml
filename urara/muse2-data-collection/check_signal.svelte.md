@@ -1,7 +1,7 @@
 ---
 title: 'Check Muse 2 Signal Quality'
-date: 2022-09-4
-lastmod: 2022-09-4
+date: 2022-09-3
+lastmod: 2022-09-3
 tags:
   - 'Muse 2'
 ---
